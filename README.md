@@ -21,7 +21,11 @@ is an AI-powered system designed to bridge the communication gap for individuals
 
 ## Demo
 
-https://github.com/user-attachments/assets/974b8ae8-8bc5-490a-bdeb-763662e3d248
+
+
+https://github.com/user-attachments/assets/d7d8275c-8966-4c42-b0d0-680dcb8c6e4a
+
+
 ![image](https://github.com/user-attachments/assets/eebe6794-9ad8-4e56-99e0-4a3356ebeadf)
 - You can also try it through the link: 
 https://huggingface.co/spaces/ahmedos13/SilenTalker
