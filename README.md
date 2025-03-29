@@ -22,13 +22,13 @@ is an AI-powered system designed to bridge the communication gap for individuals
 ## Demo
 
 https://github.com/user-attachments/assets/974b8ae8-8bc5-490a-bdeb-763662e3d248
-
+![image](https://github.com/user-attachments/assets/eebe6794-9ad8-4e56-99e0-4a3356ebeadf)
 - You can also try it through the link: 
 https://huggingface.co/spaces/ahmedos13/SilenTalker
 
 ## screenshot
 ![Capture](https://github.com/user-attachments/assets/005dbd5b-0a82-48f9-9ca8-b2d91ac40624)
-![image](https://github.com/user-attachments/assets/eebe6794-9ad8-4e56-99e0-4a3356ebeadf)
+
 
 
 
