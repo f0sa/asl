@@ -122,12 +122,14 @@ history = model.fit(
 - ✅ Instant translation between Arabic and English for enhanced accessibility.
 - ✅ User-friendly interface designed for ease of use.
 - ✅ Scalable and expandable for future improvements and additional language support.
+- ✅ Works as both a Web App and a standalone Desktop App
 
 ## Future Improvements
 
 - Expand dataset for better accuracy.
 - Support full-word translation instead of letter-by-letter.
 - Improve real-time processing speed.
+- Enhance web app UI for a better user experience..
 
 ## License
 
