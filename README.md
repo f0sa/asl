@@ -28,13 +28,47 @@ https://github.com/user-attachments/assets/974b8ae8-8bc5-490a-bdeb-763662e3d248
 # Setup
 Use comand promt to setup environment by using requirements.txt.
 ``` bash
-python3 -m pip rrequirements.txt
+python3 -m pip requirements.txt
 ```
 
 This will help you in installing all the libraries required for the project
 
 # Process
+how to run it for the first time >>
 
+- Data Preparation
+Store ASL gesture images in the Train/ and Test/ directories.
+Ensure images are categorized into subdirectories named after each corresponding letter.
+
+- Train the Model
+
+Run the following script to train the model:
+```bash
+python train_model.py
+```
+
+This script:
+Preprocesses images.
+Trains the model using EfficientNetB3.
+
+Saves the trained model as translator.keras.
+
+- Evaluate the Model
+
+Run the following command to test the model's accuracy on the test dataset:
+```bash
+python evaluate_model.py
+```
+
+- Real-Time ASL Translation
+To run real-time ASL recognition using the webcam:
+```bash
+python real_time_translator.py
+```
+This script:
+- Captures hand gestures using OpenCV.
+- Predicts the corresponding letter.
+- Displays the prediction in real-time.
 
 # Code Examples
 ```bash
@@ -68,4 +102,13 @@ history = model.fit(
 - ✅ User-friendly interface designed for ease of use.
 - ✅ Scalable and expandable for future improvements and additional language support.
 
+# Future Improvements
+
+- Expand dataset for better accuracy.
+- Support full-word translation instead of letter-by-letter.
+- Improve real-time processing speed.
+
+# License
+
+This project is open-source and free to use.
 
